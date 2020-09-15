@@ -1,2 +1,6 @@
 # Master
-Primary code base
+
+## Tech Stack
+*React
+*React Native
+*Electron
