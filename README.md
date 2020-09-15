@@ -1,6 +1,6 @@
 # Master
 
 ## Tech Stack
-*React
-*React Native
-*Electron
+* React
+* React Native
+* Electron
